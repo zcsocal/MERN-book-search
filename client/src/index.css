@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: darkgray;
+  background: url(https://s3.amazonaws.com/qualtrics-www/assets/blog/wp-content/uploads/2018/08/shutterstock_1068141515.jpg);
+  font-family: sans-serif;
+}
+
+.MuiAppBar-colorPrimary-11 {
+  color: #fff;
+  background-color: red !important;
+}
+
+
+.MuiButton-label-99 {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+  font-size: 25px !important;
+}
+
+.MuiInputBase-root-163 {
+  color: rgba(255, 252, 252, 0.87) !important;
+  cursor: text;
+  display: inline-flex;
+  font-size: 2rem !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.1875em;
+  align-items: center;
+}
+
+.MuiButton-root-98 {
+  color: rgba(255, 255, 255, 0.87);
+  padding: 6px 16px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  line-height: 1.75;
+  font-weight: 500;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  border-radius: 13px;
+  text-transform: uppercase;
+}
+
+.MuiInputBase-input-173 {
+  font: inherit;
+  color: red;
+  width: 100%;
+  border: 3;
+  margin: 0;
+  padding: 6px 0 7px;
+  display: block;
+  min-width: 0;
+  box-sizing: content-box;
+  background: none;
+  -webkit-tap-highlight-color: transparent;
+  
+}
+
+.MuiInputLabel-outlined-142 {
+  z-index: 1;
+  transform: translate(14px, 20px) scale(1);
+  pointer-events: none;
+  color: red !important;
+}
+
+.MuiButton-label-99 {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+  color: white;
+}
